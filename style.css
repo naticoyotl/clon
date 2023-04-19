@@ -5,8 +5,8 @@
 }
 
 html {
-    font-size: 62.5%;
-    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-size: 70.5%;
+    font-family: 'Roboto', cambria, Helvetica, sans-serif;
 }
 
 a {
@@ -15,7 +15,7 @@ a {
 }
 
 header {
-    width: 100%;
+    width: 95%;
     height: 48px;
 }
 
@@ -34,13 +34,13 @@ header nav .nav-right--section {
     width: 250px;
     height: auto;
     font-size: 1.3rem;
-    font-weight: 400;
+    font-weight: 1000;
     list-style: none;
 }
 
 header nav .nav-right--section a {
-    margin: 10px;
-    color: rgba(0, 0, 0, 0.87);
+    margin: 20px;
+    color: rgba(68, 255, 0, 0.984);
 }
 
 nav .nav-right--section .menu-icon {
@@ -64,10 +64,10 @@ main {
 
 main .main-logo {
     width: 272px;
-    height: 92px;
-    margin: 0 auto;
+    height: px;
+    margin: auto;
     margin-top: 108px;
-    margin-bottom: 28px;
+    margin-bottom: 40px;
 }
 
 .main-input {
